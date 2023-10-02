@@ -1,3 +1,3 @@
 # testcoursera
 
-testinggg
+the assignment is stored under test.py
